@@ -15,7 +15,7 @@ function Home() {
                     </div>
                 </div>
                 <div>
-                    <img className="rounded-2xl mx-auto w-2/6 md:w-full" src="/salinas_kevin.jpeg" alt="salinas_kevin_picture"/>
+                    <img className="rounded-2xl mx-auto w-2/6 md:w-full" src="/kevinsalinas-portfolio.png" alt="salinas_kevin_picture"/>
                 </div>
 
             </div>
